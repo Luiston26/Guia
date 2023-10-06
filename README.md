@@ -10,3 +10,7 @@ Al a ver hecho eso instalaremos LARAGON, la instalacion puede durar algunos minu
 Mientras que instalamos LARAGON tambien vayamos instalando VISUAL CODE STUDIO (esto ya la mayoria lo debe tener instalado).
 
 PASO 2:
+Lo que haremos aca es configurar nuestro Laragon, para ello iremos a Menu, luego en las opciones que nos aparecere escogemos PHP, luego en extensiones y finamente luego nos saldra una lista llena de opciones, pero nosotros macaremos la opciones que dice, SOAP.
+
+![image](https://github.com/Luiston26/Guia/assets/141371960/85e89851-2b31-4158-9a26-8006cbd75b2d)
+
