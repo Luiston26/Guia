@@ -14,4 +14,9 @@ Lo que haremos aca es configurar nuestro Laragon, para ello iremos a Menu, luego
 
 ![image](https://github.com/Luiston26/Guia/assets/141371960/2979af0c-0082-4cc3-aaf8-7db24690dbe9)
 
+Luego de eso iremos a la tuerquita que esta en la misma interfaz de Laragon en la cual lo que haremos es darle la ruta de la instalcion del facturador en nuestra PC, para ellos luego de darle en la tuerquita, se nos va presentar un cuadro donde iremos a la opcion que diga ROOT DOCUMENTOS, en la cual escogeremos la ruta de LARAGON y la carpeta de nombre WWW y finalmente le cambios lo que es el HOSTANAME, solo agregaremos al final .pe 
+
+![image](https://github.com/Luiston26/Guia/assets/141371960/7279cef4-fb48-4c3e-83a7-7f4a57aacc27)
+
+PASO 3:
 
