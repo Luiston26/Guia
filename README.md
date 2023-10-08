@@ -28,5 +28,14 @@ Ya una vez entrado a la terminal vamos a poner algunos comando, primero vamos a 
 ![image](https://github.com/Luiston26/Guia/assets/141371960/c372e662-2214-4ddf-b4f8-ced4555fc9f3)
 
 
+PASO 4:
+Despues que haya cargado, aun no saldremos de la terminal y sigamos con los comandos, pondremos cd facturadorpro4, luego ponemos composer install, esperamos a que los codigos carguen en su curso y luego cuando en la terminal ya nos deje escribir actualizamos composer con update composer, esto puede tarder unos minutos.
+
+![image](https://github.com/Luiston26/Guia/assets/141371960/a5e21685-eb4e-4940-a01b-3db8d4d95c9b)
+
+![image](https://github.com/Luiston26/Guia/assets/141371960/db926ec8-1ec8-492a-aa50-110cbbf41a54)
+
+PASO 5:
+
 
 
