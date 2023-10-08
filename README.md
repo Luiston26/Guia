@@ -19,4 +19,14 @@ Luego de eso iremos a la tuerquita que esta en la misma interfaz de Laragon en l
 ![image](https://github.com/Luiston26/Guia/assets/141371960/7279cef4-fb48-4c3e-83a7-7f4a57aacc27)
 
 PASO 3:
+Ahora entraremos a la terminal desde LARAGON, para esto le damos a Iniciar Todo y luego le dan en el boton de terminal.
+
+![image](https://github.com/Luiston26/Guia/assets/141371960/bb83003a-aea8-4587-81df-1936540c7c12)
+
+Ya una vez entrado a la terminal vamos a poner algunos comando, primero vamos a clonar nuestro repositorio, para esto pondremos git clone y el link de nuestro repositorio que creemos en GitHub, luego nos saldra ahi mismo en la terimnal que pongamos nuestro nombre de usuario en GitHub y ya luego esperemos a que siga cargando.
+
+![image](https://github.com/Luiston26/Guia/assets/141371960/c372e662-2214-4ddf-b4f8-ced4555fc9f3)
+
+
+
 
