@@ -36,6 +36,9 @@ Despues que haya cargado, aun no saldremos de la terminal y sigamos con los coma
 ![image](https://github.com/Luiston26/Guia/assets/141371960/db926ec8-1ec8-492a-aa50-110cbbf41a54)
 
 PASO 5:
+una vez que haya terminado de cargar todo, seguimos con la onstalacion, para ellos vamos a poner los siguentes comandos, composer self.update, luego vamos a poner rm composer.lock, luego composer install y luego pondremos git checkout
+
+![image](https://github.com/Luiston26/Guia/assets/141371960/87a5d6a4-e070-411c-bb01-da1446175742)
 
 
 
