@@ -40,5 +40,18 @@ una vez que haya terminado de cargar todo, seguimos con la onstalacion, para ell
 
 ![image](https://github.com/Luiston26/Guia/assets/141371960/87a5d6a4-e070-411c-bb01-da1446175742)
 
+Paso 6:
+Lo que haremos ahora es crear una Base de Datos y le pondremos como nombre tenancy, para ellos abrimos Laragon, luego le damos donde dice Bse de Datos, ponemos en nueva, abrimos, luego clic derechi en el panel del lado izquierdo y eligimos la opcion crear nueva Base de dato y le ponemos el nombre tenancy.
+
+![image](https://github.com/Luiston26/Guia/assets/141371960/1b400cf7-8206-4e4d-8513-3a6a3e952380)
+
+Luego volvemos al menu de inicio de Lagaron y elegimos la opcion que dice Root, se nos abrira nuestra caperta, entramos a la carpeta que dice facturadorpro4, luego buscamos el archivo que se llama .env.example y lo copiamos y pegamos ahi mismo el archivos que copiamos pero le vamos a cambiar el nombre, el cual sera .env y luego clic derecho al archivo y lo editamos en la opcion Edit With Notepad++ una vez adentro lo unico que haremos es ir a la linea 5 del codigo y cambiar la palabra facturador a facturador4.pe y le damos en guardar 
+
+![image](https://github.com/Luiston26/Guia/assets/141371960/640571bc-1da3-49ba-8013-bdb8e55ad41b)
+
+![image](https://github.com/Luiston26/Guia/assets/141371960/698f7ef4-3a0c-404d-b73d-84e7be2d14ce)
+
+Paso 7:
+
 
 
