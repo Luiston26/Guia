@@ -52,7 +52,26 @@ Luego volvemos al menu de inicio de Lagaron y elegimos la opcion que dice Root, 
 ![image](https://github.com/Luiston26/Guia/assets/141371960/698f7ef4-3a0c-404d-b73d-84e7be2d14ce)
 
 Paso 7:
-Ya lo que haremos ahora es seguir copiando y pegando codigos, 
+Ya lo que haremos ahora es seguir copiando y pegando codigos, los siguientes codigos seran php artisan key:generate, composer dump-autoload, php artisan migrate --seed y luego php artisan  storage:link 
+
+![image](https://github.com/Luiston26/Guia/assets/141371960/08d126f7-f784-4de1-8e5e-14f435507da3)
+
+Paso 8: 
+Ya por ultimo lo que haremos es abrir otra vez el Laragon donde vamos a detener el programa y luego a iniciar para actulizar todo lo que hemos agregado, lueho le damos clic en ka opcion H que sale arriba para ver si se ha guaradado los cambios, luego vamos a buscar la siguiente ruta en nuestra expolador de archivos, disco C, Windows, es-ES, System 32, Drivers, etc y luego host, aqui le damos en clic derecho luego en propiedades, le desactivamos la opcion que dice solo lectura y le damos en continuar, lueego cerramos y volvemos al Laragon donde le vamos a volver a entrar en H y tenemos que tenemos lo siguientes codigos 
+
+![image](https://github.com/Luiston26/Guia/assets/141371960/d474b471-e1f9-4921-83af-9e54b75162fe)
+
+![image](https://github.com/Luiston26/Guia/assets/141371960/5813c3c3-ad8d-4ad7-9294-4f2111152ab4)
+
+Ya por ultimo si lo hicimos tal cual vamos a nuestro explorador de internet favorito y escribiremos facturadorpro4, nos saldra un login donde nos registraremos el cual pondremos de nombre de usuario admin y la contraseña sera 123456 y asi lograremos ingresar al facturador.
+
+![image](https://github.com/Luiston26/Guia/assets/141371960/fadba522-8bba-4bf1-b995-d43dfa324e0e)
+
+
+
+
+
+
 
 
 
