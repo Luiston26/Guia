@@ -52,6 +52,7 @@ Luego volvemos al menu de inicio de Lagaron y elegimos la opcion que dice Root, 
 ![image](https://github.com/Luiston26/Guia/assets/141371960/698f7ef4-3a0c-404d-b73d-84e7be2d14ce)
 
 Paso 7:
+Ya lo que haremos ahora es seguir copiando y pegando codigos, 
 
 
 
